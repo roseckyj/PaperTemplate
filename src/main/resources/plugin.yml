@@ -1,0 +1,10 @@
+name: Template
+version: '${version}'
+main: cz.xrosecky.template.Template
+api-version: '1.18'
+
+commands:
+  test:
+    description: Example command
+    usage: /<command>
+    permission: template.test
